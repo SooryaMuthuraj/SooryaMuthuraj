@@ -2,8 +2,8 @@
 
 🚀 **APM Enthusiast | Tech Explorer | Developer**
 
-I’m passionate about building systems that are smart, scalable, and observable.  
-Currently focused on **APM Solutions, OpenTelemetry, and Dynatrace Integrations**, while doing R&D in **AI-driven monitoring** and **cloud automation**.
+I love building and working on systems that are smart, scalable, and observable.  
+Currently focused on **APM Solutions, OpenTelemetry, and Dynatrace Integrations**, while doing R&D in **AI-driven monitoring** and **cloud**.
 
 ---
 
@@ -21,7 +21,7 @@ Currently focused on **APM Solutions, OpenTelemetry, and Dynatrace Integrations*
 💡 **Languages:** Python · JavaScript   
 🧩 **Tools:** Dynatrace · OpenTelemetry · Prometheus · Docker · AppDynamics · Grafana 
 🗄️ **Databases:** MySQL · Redis · SQLite · MongoDB  
-☁️ **Others:** Git · Linux · CI/CD · REST APIs  
+☁️ **Others:** Linux · Integrations · REST APIs  
 
 ---
 
