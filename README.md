@@ -1,6 +1,6 @@
-# 👋 Yo , I'm Soorya Muthuraj! A Lifelong Student...
+# 👋 Yo , I'm Soorya Muthuraj! 
 
-🚀 **APM Enthusiast | Tech Explorer | Developer**
+🚀 **Lifelong Student | APM Enthusiast | Tech Explorer | Developer**
 
 I love building and working on systems that are smart, scalable, and observable.  
 Currently focused on **APM Solutions, OpenTelemetry, and Dynatrace Integrations**, while doing R&D in **AI-driven monitoring** and **cloud**.
