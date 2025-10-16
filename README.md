@@ -19,7 +19,7 @@ Currently focused on **APM Solutions, OpenTelemetry, and Dynatrace Integrations*
 ### 🛠️ Tech Stack
 
 💡 **Languages:** Python · JavaScript   
-🧩 **Tools:** Dynatrace · OpenTelemetry · Prometheus · Docker · AppDynamics · Grafana 
+🧩 **Tools:** Dynatrace · OpenTelemetry · Prometheus · Docker · AppDynamics · Grafana
 🗄️ **Databases:** MySQL · Redis · SQLite · MongoDB  
 ☁️ **Others:** Linux · Integrations · REST APIs  
 
